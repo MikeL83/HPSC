@@ -13,7 +13,7 @@
 *.la
 
 # Fortran objects and libs
-
+a.out
 
 # Qt related files
 
