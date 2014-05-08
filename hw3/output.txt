@@ -1,0 +1,105 @@
+ Test routine for computing zero of g
+  
+Initial guess: x = -0.250000000000000E+01
+After  1 iterations, x = -0.224663675573284E+01
+After  2 iterations, x = -0.218548539682909E+01
+After  3 iterations, x = -0.217812002424166E+01
+After  4 iterations, x = -0.217800598462341E+01
+After  5 iterations, x = -0.217800595720340E+01
+After  6 iterations, x = -0.217800595720340E+01
+After  7 iterations, x = -0.217800595720340E+01
+After  8 iterations, x = -0.217800595720340E+01
+After  9 iterations, x = -0.217800595720340E+01
+After 10 iterations, x = -0.217800595720340E+01
+After 11 iterations, x = -0.217800595720340E+01
+After 12 iterations, x = -0.217800595720340E+01
+After 13 iterations, x = -0.217800595720340E+01
+After 14 iterations, x = -0.217800595720340E+01
+After 15 iterations, x = -0.217800595720340E+01
+After 16 iterations, x = -0.217800595720340E+01
+After 17 iterations, x = -0.217800595720340E+01
+After 18 iterations, x = -0.217800595720340E+01
+After 19 iterations, x = -0.217800595720340E+01
+After 20 iterations, x = -0.217800595720340E+01
+ *** Warning: has not yet converged
+solver returns x = -0.217800595720340E+01 after 20 iterations
+the value of f(x) is -0.444089209850063E-15
+*** Unexpected result: x = -0.217800595720340E+01
+  
+Initial guess: x = -0.150000000000000E+01
+After  1 iterations, x = -0.162017625473702E+01
+After  2 iterations, x = -0.161311706291857E+01
+After  3 iterations, x = -0.161312587465504E+01
+After  4 iterations, x = -0.161312587466546E+01
+After  5 iterations, x = -0.161312587466546E+01
+After  6 iterations, x = -0.161312587466546E+01
+After  7 iterations, x = -0.161312587466546E+01
+After  8 iterations, x = -0.161312587466546E+01
+After  9 iterations, x = -0.161312587466546E+01
+After 10 iterations, x = -0.161312587466546E+01
+After 11 iterations, x = -0.161312587466546E+01
+After 12 iterations, x = -0.161312587466546E+01
+After 13 iterations, x = -0.161312587466546E+01
+After 14 iterations, x = -0.161312587466546E+01
+After 15 iterations, x = -0.161312587466546E+01
+After 16 iterations, x = -0.161312587466546E+01
+After 17 iterations, x = -0.161312587466546E+01
+After 18 iterations, x = -0.161312587466546E+01
+After 19 iterations, x = -0.161312587466546E+01
+After 20 iterations, x = -0.161312587466546E+01
+ *** Warning: has not yet converged
+solver returns x = -0.161312587466546E+01 after 20 iterations
+the value of f(x) is -0.111022302462516E-15
+*** Unexpected result: x = -0.161312587466546E+01
+  
+Initial guess: x = -0.500000000000000E+00
+After  1 iterations, x = -0.891561377503800E+00
+After  2 iterations, x = -0.783953883953982E+00
+After  3 iterations, x = -0.790398149446617E+00
+After  4 iterations, x = -0.790404267768551E+00
+After  5 iterations, x = -0.790404267775013E+00
+After  6 iterations, x = -0.790404267775013E+00
+After  7 iterations, x = -0.790404267775013E+00
+After  8 iterations, x = -0.790404267775013E+00
+After  9 iterations, x = -0.790404267775013E+00
+After 10 iterations, x = -0.790404267775013E+00
+After 11 iterations, x = -0.790404267775013E+00
+After 12 iterations, x = -0.790404267775013E+00
+After 13 iterations, x = -0.790404267775013E+00
+After 14 iterations, x = -0.790404267775013E+00
+After 15 iterations, x = -0.790404267775013E+00
+After 16 iterations, x = -0.790404267775013E+00
+After 17 iterations, x = -0.790404267775013E+00
+After 18 iterations, x = -0.790404267775013E+00
+After 19 iterations, x = -0.790404267775013E+00
+After 20 iterations, x = -0.790404267775013E+00
+ *** Warning: has not yet converged
+solver returns x = -0.790404267775013E+00 after 20 iterations
+the value of f(x) is -0.111022302462516E-15
+*** Unexpected result: x = -0.790404267775013E+00
+  
+Initial guess: x =  0.150000000000000E+01
+After  1 iterations, x =  0.144625628151909E+01
+After  2 iterations, x =  0.144427730479535E+01
+After  3 iterations, x =  0.144427411481148E+01
+After  4 iterations, x =  0.144427411480314E+01
+After  5 iterations, x =  0.144427411480314E+01
+After  6 iterations, x =  0.144427411480314E+01
+After  7 iterations, x =  0.144427411480314E+01
+After  8 iterations, x =  0.144427411480314E+01
+After  9 iterations, x =  0.144427411480314E+01
+After 10 iterations, x =  0.144427411480314E+01
+After 11 iterations, x =  0.144427411480314E+01
+After 12 iterations, x =  0.144427411480314E+01
+After 13 iterations, x =  0.144427411480314E+01
+After 14 iterations, x =  0.144427411480314E+01
+After 15 iterations, x =  0.144427411480314E+01
+After 16 iterations, x =  0.144427411480314E+01
+After 17 iterations, x =  0.144427411480314E+01
+After 18 iterations, x =  0.144427411480314E+01
+After 19 iterations, x =  0.144427411480314E+01
+After 20 iterations, x =  0.144427411480314E+01
+ *** Warning: has not yet converged
+solver returns x =  0.144427411480314E+01 after 20 iterations
+the value of f(x) is  0.333066907387547E-15
+*** Unexpected result: x =  0.144427411480314E+01
